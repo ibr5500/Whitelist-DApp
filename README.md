@@ -6,14 +6,14 @@
 Whitelist Contract Address:  0x1e471D5aB67B800734353aeF1bdb76074D9a4a23
 ```
 
-## Built with:
+## Built with
 
 - React.js
 - Next.js
 
 ## Live Demo
 
-Deployed by XXX [click](https://localhost:3000/) for the live demo.
+Deployed by Vercel, please [click](https://whitelist-d-app-sigma.vercel.app/) for the live demo.
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Deployed by XXX [click](https://localhost:3000/) for the live demo.
 
 ### Steps to run the project
 
-#### 1 - Install the required libraries.
+#### 1 - Install the required libraries
 
 ```
 npm install
@@ -55,6 +55,7 @@ pnpm dev
 ## Author
 
 👤 **Ibrahim Ahmat**
+
 - GitHub: [@ibr5500](https://github.com/ibr5500)
 - Twitter: [@ibr_ahmat](https://twitter.com/ibr_ahmat)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ibrahim-ahmat/)
